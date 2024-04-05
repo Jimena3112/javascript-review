@@ -1,0 +1,15 @@
+{
+  "name": "javascript-review",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Sample Javascript Project, illustrating fundamental language concepts, like variables, functions and classes. ",
+  "module": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
